@@ -1,4 +1,4 @@
-# Bechdal Test on Movie Scripts
+## Bechdal Test on Movie Scripts
 
 This repo applies [Bechdal test](https://www.wikiwand.com/en/Bechdel_test) to movie scripts from IMSDB website.
 
@@ -19,4 +19,8 @@ The code is divided into the following files:
               
 
 - **AnalysingBechdelResults.ipynb**:  
-    Plots analyses of Bechdal test over time.
+    Plots analyses of Bechdal test over time.  
+    
+## License
+
+BechdalTest is released under the MIT license. See [LICENSE](https://github.com/amrakm/BechdalTest/blob/master/LICENSE) for more information.
